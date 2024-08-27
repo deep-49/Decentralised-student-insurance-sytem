@@ -11,6 +11,11 @@ Claim Filing: Students can file claims to receive payouts for educational expens
 Claim Approval: An admin reviews and approves claims, releasing the insured amount to the student.</br>
 Blockchain Security: All transactions and records are securely stored on the Ethereum blockchain, ensuring transparency and immutability.</br>
 
+<h3>Prerequisites</h3>
+Solidity version ^0.8.19 </br>
+An Ethereum wallet (e.g., MetaMask) with test Ether (if deploying on a test network) </br>
+Access to an Ethereum development environment (e.g., Remix, Hardhat, Truffle) </br>
+
 <h3>Flowchart</h3>
 [Start] </br>
    | </br>
